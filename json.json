@@ -1,0 +1,45 @@
+{
+  "Category": {
+    "1": {
+      "id": "c1",
+      "name": "Cardiology",
+      "description": "Heart and cardiovascular system specialists"
+    },
+    "2": {
+      "id": "c2",
+      "name": "Neurology",
+      "description": "Brain and nervous system specialists"
+    },
+    "3": {
+      "id": "c3",
+      "name": "Pediatrics",
+      "description": "Child health and development specialists"
+    }
+  },
+  "Doctors": {
+    "1": {
+      "id": "d1",
+      "name": "Dr. Ali Khan",
+      "specialization": "Cardiology",
+      "categoryId": "c1",
+      "experience": "10 years",
+      "email": "ali.khan@example.com"
+    },
+    "2": {
+      "id": "d2",
+      "name": "Dr. Sara Malik",
+      "specialization": "Neurology",
+      "categoryId": "c2",
+      "experience": "8 years",
+      "email": "sara.malik@example.com"
+    },
+    "3": {
+      "id": "d3",
+      "name": "Dr. Ahmed Raza",
+      "specialization": "Pediatrics",
+      "categoryId": "c3",
+      "experience": "6 years",
+      "email": "ahmed.raza@example.com"
+    }
+  }
+}
